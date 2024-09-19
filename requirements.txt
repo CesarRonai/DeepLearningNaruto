@@ -1,0 +1,26 @@
+Requisitos do projeto:
+
+Bibliotecas Utilizadas:
+
+TensorFlow/Keras
+Pandas
+NumPy
+OpenCV (para manipulação de imagens)
+Matplotlib (para visualização)
+Sklearn (para pré-processamento e avaliação)
+Estrutura do Código:
+
+Carregamento do dataset de imagens do personagem Naruto.
+Pré-processamento das imagens para ajuste de tamanho e escala de cores.
+Definição do modelo de Deep Learning (CNN).
+Treinamento e validação do modelo.
+Salvamento e inferência de novas imagens para a identificação do personagem Naruto.
+Dataset Utilizado:
+
+Imagens do personagem Naruto disponíveis no diretório local.
+As imagens foram processadas e organizadas em classes de acordo com as necessidades do modelo.
+Passo a passo para Execução:
+
+O código é executado utilizando Python 3.8+.
+O ambiente Jupyter Notebook foi utilizado para o desenvolvimento e teste do modelo.
+Instruções detalhadas para execução podem ser encontradas nos comentários do código.
