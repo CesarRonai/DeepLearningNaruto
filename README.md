@@ -43,7 +43,7 @@ Clone the repository:
 
 bash
 Copiar código
-git clone [<repository_url>](https://github.com/CesarRonai/DeepLearningNaruto)
+git clone [<[repository_url](https://github.com/CesarRonai/DeepLearningNaruto)>](https://github.com/CesarRonai/DeepLearningNaruto)
 Navigate to the project directory:
 
 bash
